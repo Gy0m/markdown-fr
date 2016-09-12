@@ -1,11 +1,11 @@
 # Titles
 
-Comme nous commençons à écrire un document markdown, nous avons besoin d'un titre et d'un sous-titre
+Comme nous commençons à écrire un document markdown, nous avons besoin d'un **titre** et d'un *sous-titre*
 
-le markdown supporte deux styles de titres; Setex et atx
+le markdown supporte deux styles de titres;**Setex** et **atx**
 
 les titres setex sont "souslignés" en utilisant le signe égal(pour le premier niveau de titre) et des tirets (pour le second niveau de titre) 
-
+                       ===========                                                                    ------                         
 
 ```
 This is an H1
